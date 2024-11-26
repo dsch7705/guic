@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dscho\\source\\repos\\c\\gui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F89C3B14-82D5-43FA-98C8-16255C956C2C}|gui\\gui.vcxproj|C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui_element.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F89C3B14-82D5-43FA-98C8-16255C956C2C}|gui\\gui.vcxproj|solutionrelative:gui\\include\\gui_element.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89C3B14-82D5-43FA-98C8-16255C956C2C}|gui\\gui.vcxproj|C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui_primatives.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F89C3B14-82D5-43FA-98C8-16255C956C2C}|gui\\gui.vcxproj|solutionrelative:gui\\include\\gui_primatives.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89C3B14-82D5-43FA-98C8-16255C956C2C}|gui\\gui.vcxproj|C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui_primatives.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F89C3B14-82D5-43FA-98C8-16255C956C2C}|gui\\gui.vcxproj|solutionrelative:gui\\include\\gui_primatives.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89C3B14-82D5-43FA-98C8-16255C956C2C}|gui\\gui.vcxproj|C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui_util.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F89C3B14-82D5-43FA-98C8-16255C956C2C}|gui\\gui.vcxproj|solutionrelative:gui\\include\\gui_util.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89C3B14-82D5-43FA-98C8-16255C956C2C}|gui\\gui.vcxproj|C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui_util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F89C3B14-82D5-43FA-98C8-16255C956C2C}|gui\\gui.vcxproj|solutionrelative:gui\\include\\gui_util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89C3B14-82D5-43FA-98C8-16255C956C2C}|gui\\gui.vcxproj|C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F89C3B14-82D5-43FA-98C8-16255C956C2C}|gui\\gui.vcxproj|solutionrelative:gui\\include\\gui.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89C3B14-82D5-43FA-98C8-16255C956C2C}|gui\\gui.vcxproj|C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui_element.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F89C3B14-82D5-43FA-98C8-16255C956C2C}|gui\\gui.vcxproj|solutionrelative:gui\\include\\gui_element.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89C3B14-82D5-43FA-98C8-16255C956C2C}|gui\\gui.vcxproj|C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\src\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F89C3B14-82D5-43FA-98C8-16255C956C2C}|gui\\gui.vcxproj|solutionrelative:gui\\src\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89C3B14-82D5-43FA-98C8-16255C956C2C}|gui\\gui.vcxproj|C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F89C3B14-82D5-43FA-98C8-16255C956C2C}|gui\\gui.vcxproj|solutionrelative:gui\\include\\gui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gui_util.c",
+              "DocumentMoniker": "C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui_util.c",
+              "RelativeDocumentMoniker": "gui\\include\\gui_util.c",
+              "ToolTip": "C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui_util.c",
+              "RelativeToolTip": "gui\\include\\gui_util.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-26T19:54:35.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gui_util.h",
+              "DocumentMoniker": "C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui_util.h",
+              "RelativeDocumentMoniker": "gui\\include\\gui_util.h",
+              "ToolTip": "C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui_util.h",
+              "RelativeToolTip": "gui\\include\\gui_util.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T19:52:14.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gui_primatives.c",
+              "DocumentMoniker": "C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui_primatives.c",
+              "RelativeDocumentMoniker": "gui\\include\\gui_primatives.c",
+              "ToolTip": "C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui_primatives.c",
+              "RelativeToolTip": "gui\\include\\gui_primatives.c",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-26T19:35:11.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gui_primatives.h",
+              "DocumentMoniker": "C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui_primatives.h",
+              "RelativeDocumentMoniker": "gui\\include\\gui_primatives.h",
+              "ToolTip": "C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui_primatives.h",
+              "RelativeToolTip": "gui\\include\\gui_primatives.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T17:56:38.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "gui.h",
+              "DocumentMoniker": "C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui.h",
+              "RelativeDocumentMoniker": "gui\\include\\gui.h",
+              "ToolTip": "C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui.h",
+              "RelativeToolTip": "gui\\include\\gui.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T05:11:00.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gui.c",
+              "DocumentMoniker": "C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui.c",
+              "RelativeDocumentMoniker": "gui\\include\\gui.c",
+              "ToolTip": "C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui.c",
+              "RelativeToolTip": "gui\\include\\gui.c",
+              "ViewState": "AQIAABwAAAAAAAAAAAAqwPEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-19T09:43:46.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "gui_element.c",
+              "DocumentMoniker": "C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui_element.c",
+              "RelativeDocumentMoniker": "gui\\include\\gui_element.c",
+              "ToolTip": "C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui_element.c",
+              "RelativeToolTip": "gui\\include\\gui_element.c",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAAAGoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-19T07:19:28.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gui_element.h",
+              "DocumentMoniker": "C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui_element.h",
+              "RelativeDocumentMoniker": "gui\\include\\gui_element.h",
+              "ToolTip": "C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\include\\gui_element.h",
+              "RelativeToolTip": "gui\\include\\gui_element.h",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAqwGMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T07:15:59.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\src\\main.c",
+              "RelativeDocumentMoniker": "gui\\src\\main.c",
+              "ToolTip": "C:\\Users\\dscho\\source\\repos\\c\\gui\\gui\\src\\main.c",
+              "RelativeToolTip": "gui\\src\\main.c",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-19T06:20:36.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

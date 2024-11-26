@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: Two or more files with the name of gui_element.c will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are include\gui_element.c, include\SDL\gui_element.c.
+  gui.c
+C:\Users\dscho\source\repos\c\gui\gui\include\gui.c(43,46): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  gui_element.c
+C:\Users\dscho\source\repos\c\gui\gui\include\gui_element.c(97,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.c
+C:\Users\dscho\source\repos\c\gui\gui\src\main.c(31,95): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\dscho\source\repos\c\gui\gui\src\main.c(31,105): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\dscho\source\repos\c\gui\gui\src\main.c(41,81): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dscho\source\repos\c\gui\gui\src\main.c(41,96): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  gui.vcxproj -> C:\Users\dscho\source\repos\c\gui\x64\Debug\gui.exe
+  1 File(s) copied
