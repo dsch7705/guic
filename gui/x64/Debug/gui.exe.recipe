@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\dscho\source\repos\c\gui\x64\Debug\gui.exe</FullPath>
+      <FullPath>C:\Users\dscho\source\repos\c\guic\x64\Debug\gui.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

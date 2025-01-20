@@ -9,6 +9,7 @@
 #define GUI_ELEMENT_TYPE_TEXT -2
 #define GUI_ELEMENT_TYPE_PANEL -3
 #define GUI_ELEMENT_TYPE_BUTTON -4
+#define GUI_ELEMENT_TYPE_TEXT_INPUT -5
 
 #define GUI_FLAG_DEFAULT (0)
 #define GUI_FLAG_STATIC (1 << 0)
@@ -31,6 +32,8 @@
 #define GUI_CYAN (GUI_Color) { 0, 255, 255, 255 }
 #define GUI_MAGENTA (GUI_Color) { 255, 0, 255, 255 }
 
+#define GUI_MAX_TEXT_INPUT_LENGTH 1024
+
 typedef struct GUI_Node
 {
 
@@ -40,7 +43,7 @@ typedef struct GUI_Node
 	// relative to parent node
 	GUI_Point		 position;
 	// absolute
-	GUI_Point		 position_a;
+	GUI_Point		 position_abs;
 	GUI_Size		 size;
 
 	void* element;
@@ -53,13 +56,14 @@ typedef struct GUI_Node
 typedef struct GUI_Text
 {
 
-	char text[1024];
+	char text[GUI_MAX_TEXT_INPUT_LENGTH];
 	int text_len;
 
 	GUI_Font* font;
 	GUI_FontStyle* font_style;
 
 	SDL_Texture* _tex;
+	unsigned char _redraw;
 	GUI_Node* node;
 
 } GUI_Text;
@@ -71,6 +75,13 @@ typedef struct GUI_Panel
 	GUI_Node* node;
 
 } GUI_Panel;
+typedef struct GUI_TextInput
+{
+
+	GUI_Text* text;
+	GUI_Node* node;
+
+} GUI_TextInput;
 typedef struct GUI_Button
 {
 
@@ -105,6 +116,9 @@ GUI_Node* gui_create_node();
 GUI_Panel* gui_create_panel(GUI_Node* parent, const char* label, GUI_Rect rect, GUI_Color color, int flags);
 GUI_Text* gui_create_text(GUI_Node* parent, const char* text, GUI_Point pos, GUI_Font* font, GUI_FontStyle* font_style, int flags);
 GUI_Button* gui_create_button(GUI_Node* parent, const char* label, GUI_Rect rect, int flags);
+GUI_TextInput* gui_create_text_input(GUI_Node* parent, GUI_Rect rect, int flags);
+
+void gui_edit_text(GUI_Text* gui_text, char* new_text, size_t new_text_len);
 
 // Sets position relative to parent
 void gui_set_position(GUI_Node* node, GUI_Point new_pos);

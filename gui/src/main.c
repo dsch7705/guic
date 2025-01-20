@@ -36,6 +36,7 @@ int main(int argc, char* argv[])
 	// GUI
 
 	GUI_State* gui = gui_create_state(renderer);
+	gui_set_active_state(gui);
 	printf("Loaded %d fonts\n", gui_load_fonts());
 
 	panel = gui_create_panel(gui->base_node, "Test", (GUI_Rect) { 25, 25, WINDOW_W - 50, WINDOW_H - 50 }, GUI_WHITE, 0);
@@ -48,6 +49,8 @@ int main(int argc, char* argv[])
 	btnG->action = set_panel_color_green;
 	btnB->action = set_panel_color_blue;
 
+	GUI_TextInput* txtInput = gui_create_text_input(panel->node, (GUI_Rect) { 0, 125, 600, 200 }, 0);
+
 	//
 	unsigned char running = 1;
 	while (running)
@@ -55,8 +58,9 @@ int main(int argc, char* argv[])
 		// Background
 		SDL_SetRenderDrawColor(renderer, 70, 70, 70, 255);
 		SDL_RenderClear(renderer);
-		gui_draw_state(gui);
-		gui_update(gui);
+
+		gui_draw();
+		gui_update();
 
 		SDL_RenderPresent(renderer);
 

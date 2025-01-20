@@ -239,18 +239,18 @@
     <ClInclude Include="include\SDL\SDL_thread.h" />
     <ClInclude Include="include\SDL\SDL_timer.h" />
     <ClInclude Include="include\SDL\SDL_touch.h" />
+    <ClInclude Include="include\SDL\SDL_ttf.h" />
     <ClInclude Include="include\SDL\SDL_types.h" />
     <ClInclude Include="include\SDL\SDL_version.h" />
     <ClInclude Include="include\SDL\SDL_video.h" />
     <ClInclude Include="include\SDL\SDL_vulkan.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="include\gui.c" />
-    <ClCompile Include="include\gui_element.c" />
-    <ClCompile Include="include\gui_font.c" />
-    <ClCompile Include="include\gui_primatives.c" />
-    <ClCompile Include="include\gui_util.c" />
-    <ClCompile Include="include\SDL\gui_element.c" />
+    <ClCompile Include="src\gui.c" />
+    <ClCompile Include="src\gui_element.c" />
+    <ClCompile Include="src\gui_font.c" />
+    <ClCompile Include="src\gui_primatives.c" />
+    <ClCompile Include="src\gui_util.c" />
     <ClCompile Include="src\main.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
