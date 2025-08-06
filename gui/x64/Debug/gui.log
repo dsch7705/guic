@@ -1,6 +1,0 @@
-﻿  gui_element.c
-C:\Users\dscho\source\repos\c\guic\gui\src\gui_element.c(97,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\dscho\source\repos\c\guic\gui\src\gui_element.c(166,24): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\dscho\source\repos\c\guic\gui\src\gui_element.c(144,1): warning C4715: 'gui_create_text_input': not all control paths return a value
-  gui.vcxproj -> C:\Users\dscho\source\repos\c\guic\x64\Debug\gui.exe
-  1 File(s) copied
